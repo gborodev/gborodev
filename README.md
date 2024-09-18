@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaan Yağlıdere</h1>
-<h3 align="center">I'm game developer from Istanbul/Turkiye.</h3>
+<h3 align="center">I'm a constantly learning game developer.</h3>
+<h3 align="center">I'm living from Istanbul/Turkiye.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
